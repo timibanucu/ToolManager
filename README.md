@@ -1,0 +1,2 @@
+# ToolManager
+ mangementul unor tooluri
